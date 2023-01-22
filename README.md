@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React, JavaScript.**
 
-- 👯 I’m looking to collaborate on **website, app, prototype, design projects.**
+- 👯 I’m looking to collaborate on **website, app, prototype and web design projects.**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Figma.**
 
