@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Chiara.</h1>
 <h3 align="center">I am currently studying computer programming through an extensive online coding Bootcamp and am investing time and energy to pursue a career change. Therefore, I am highly motivated to succeed as a web developer. I am always ready to learn and excited to contribute to innovative projects that serve a real purpose and make a difference in the world.</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **my portfolio.**
 
-- 🌱 I’m currently learning **React,JavaScript**
+- 🌱 I’m currently learning **React, JavaScript.**
 
 - 👯 I’m looking to collaborate on **website, app, prototype, design projects.**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Figma**
+- 💬 Ask me about **HTML, CSS, JavaScript, Figma.**
 
-- 📫 How to reach me **m.chiarapigoni@gmail.com**
+- 📫 How to reach me **m.chiarapigoni@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
