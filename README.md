@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Chiara.</h1>
 <h3 align="left">I am currently studying computer programming through an extensive online coding Bootcamp and am investing time and energy to pursue a career change. Therefore, I am highly motivated to succeed as a web developer. I am always ready to learn and excited to contribute to innovative projects that serve a real purpose and make a difference in the world.</h3>
+<br>
+
 
 - 🔭 I’m currently working on **my portfolio.**
 
