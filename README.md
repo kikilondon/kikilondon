@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Chiara.</h1>
-<h4 align="left">I am currently studying computer programming through an extensive online coding Bootcamp and am investing time and energy to pursue a career change. Therefore, I am highly motivated to succeed as a web developer. I am always ready to learn and excited to contribute to innovative projects that serve a real purpose and make a difference in the world.</h4>
+<h4 align="left">I am currently studying computer programming through an extensive online coding Bootcamp and I am investing time and energy to pursue a career change. Therefore, I am highly motivated to succeed as a web developer. I am always ready to learn and excited to contribute to innovative projects that serve a real purpose and make a difference in the world.</h4>
 <br>
 
 
