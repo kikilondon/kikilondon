@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Chiara.</h1>
-<h4 align="left">I am currently studying computer programming through an extensive online coding Bootcamp and I am investing time and energy to pursue a career change. Therefore, I am highly motivated to succeed as a web developer. I am always ready to learn and excited to contribute to innovative projects that serve a real purpose and make a difference in the world.</h4>
+<h4 align="left">As a Junior Front-end developer, I am focused on developing semantically correct, accessible, and responsive web products and improving my skills within the JavaScript ecosystem. I work with new frameworks and libraries, such as React & Node.js, to create data-driven, feature-rich applications.
+
+Given my MA in Graphic Design, I have a solid knowledge of graphic principles, so I am proficient with design tools like Adobe creative cloud and Figma, but also with basic UI principles and prototyping. I am always ready to learn and excited to contribute to innovative projects that serve a real purpose and make a difference in the world. 
+
+After working on several web projects, I shifted my focus to web development, investing time and energy. I recently concluded an intensive Web Development Bootcamp funded by the DeF UK government. As a result, I am strongly motivated to succeed as a web developer.</h4>
 <br>
 
 
