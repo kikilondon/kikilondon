@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Chiara.</h1>
-<h4 align="left">As junior front-end developer, I am focused on developing semantically correct, accessible, and responsive web products and improving my skills within the JavaScript ecosystem. I work with new frameworks and libraries, such as React & Node.js, to create data-driven, feature-rich applications.
+<h4 align="left">As junior web developer, I am focused on developing semantically correct, accessible, and responsive web products and improving my skills within the JavaScript ecosystem. I work with new frameworks and libraries, such as React & Node.js, to create data-driven, feature-rich applications.
 
 Given my MA in Graphic Design, I have a solid knowledge of graphic principles, so I am proficient with design tools like Adobe creative cloud and Figma, but also with basic UI principles and prototyping. I am always ready to learn and excited to contribute to innovative projects that serve a real purpose and make a difference in the world. 
 
