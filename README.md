@@ -25,7 +25,7 @@ After working on several web projects, I shifted my focus to web development, in
 
 - 🔭 I’m currently working on **my portfolio.**
 
-- 🌱 I’m currently learning **React, JavaScript.**
+- 🌱 I’m currently learning **React, PHP.**
 
 - 👯 I’m looking to collaborate on **website, app, prototype and web design projects.**
 
