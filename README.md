@@ -15,17 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Chiara.</h1>
-<h4 align="left">As junior web developer, I am focused on developing semantically correct, accessible, and responsive web products and improving my skills within the JavaScript ecosystem. I work with new frameworks and libraries, such as React & Node.js, to create data-driven, feature-rich applications.
+<h4 align="left">As a passionate and skilled Java Full-Stack Developer, I am dedicated to creating high-quality web products that combine technical expertise with creative flair. With a solid foundation in Graphic Design, I bring a unique perspective to my development work, ensuring that the user experience is both visually appealing and functionally seamless.
 
-Given my MA in Graphic Design, I have a solid knowledge of graphic principles, so I am proficient with design tools like Adobe creative cloud and Figma, but also with basic UI principles and prototyping. I am always ready to learn and excited to contribute to innovative projects that serve a real purpose and make a difference in the world. 
+Having honed my skills in web development, I am now proficient in developing semantically correct, accessible, and responsive web applications. While I have a solid foundation in web development and the JavaScript ecosystem, I am continuously expanding my skills in React and Node.js. I possess a strong grasp of the fundamentals and always seek opportunities to deepen my expertise in these technologies
 
-After working on several web projects, I shifted my focus to web development, investing time and energy. I recently concluded an intensive Web Development Bootcamp funded by the DfE of the UK Government. As a result, I am strongly motivated to succeed as a web developer.</h4>
+Equipped with my recent certification as a Java Full-Stack Developer, I am excited to dive into Java-based projects and contribute my proficiency in both front-end and back-end development. My journey includes successful completion of an intensive Web Development Bootcamp funded by the DfE UK government, which has further fueled my motivation to excel in the world of web development.
+
+With a keen eye for design and an understanding of basic UI principles, I am proficient in using design tools such as Adobe Creative Cloud and Figma to enhance the visual appeal of my applications. I thrive in dynamic and innovative environments, and I'm always eager to learn and collaborate on projects that make a real difference in the world.
+
+I look forward to connecting with like-minded professionals and exploring exciting opportunities to apply my Java development skills while pushing the boundaries of web development excellence.".</h4>
 <br>
 
 
-- 🔭 I’m currently working on **my portfolio.**
+- 🔭 I’m currently working on **implementing my projects.**
 
-- 🌱 I’m currently learning **React, PHP.**
+- 🌱 I’m currently learning **Python.**
 
 - 👯 I’m looking to collaborate on **website, app, prototype and web design projects.**
 
