@@ -23,7 +23,7 @@ Equipped with my recent certification as a Java Full-Stack Developer, I am excit
 
 With a keen eye for design and an understanding of basic UI principles, I am proficient in using design tools such as Adobe Creative Cloud and Figma to enhance the visual appeal of my applications. I thrive in dynamic and innovative environments, and I'm always eager to learn and collaborate on projects that make a real difference in the world.
 
-I look forward to connecting with like-minded professionals and exploring exciting opportunities to apply my Java development skills while pushing the boundaries of web development excellence.".</h4>
+I look forward to connecting with like-minded professionals and exploring exciting opportunities to apply my Java development skills while pushing the boundaries of web development excellence.</h4>
 <br>
 
 
