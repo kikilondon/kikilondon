@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Having honed my skills in web development, I am now proficient in developing semantically correct, accessible, and responsive web applications. While I have a solid foundation in web development and the JavaScript ecosystem, I am continuously expanding my skills in React and Node.js. I possess a strong grasp of the fundamentals and always seek opportunities to deepen my expertise in these technologies
 
-Equipped with my recent certification as a Java Full-Stack Developer, I am excited to dive into Java-based projects and contribute my proficiency in both front-end and back-end development. My journey includes successful completion of an intensive Web Development Bootcamp funded by the DfE UK government, which has further fueled my motivation to excel in the world of web development.
+Equipped with my recent certification as a Java Full-Stack Developer, I am excited to dive into Java-based projects and contribute my proficiency in both front-end and back-end development. My journey includes successful completion of an intensive Web Development Bootcamp funded by the DfE UK government, which has further fuelled my motivation to excel in the world of web development.
 
 With a keen eye for design and an understanding of basic UI principles, I am proficient in using design tools such as Adobe Creative Cloud and Figma to enhance the visual appeal of my applications. I thrive in dynamic and innovative environments, and I'm always eager to learn and collaborate on projects that make a real difference in the world.
 
