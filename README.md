@@ -29,7 +29,7 @@ I look forward to connecting with like-minded professionals and exploring exciti
 
 - 🔭 I’m currently working on **implementing my projects.**
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **React.**
 
 - 👯 I’m looking to collaborate on **website, app, prototype and web design projects.**
 
