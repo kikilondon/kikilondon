@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Chiara.</h1>
-<h4 align="left">As a passionate and skilled Java Full-Stack Developer, I am dedicated to creating high-quality web products that combine technical expertise with creative flair. With a solid foundation in Graphic Design, I bring a unique perspective to my development work, ensuring that the user experience is both visually appealing and functionally seamless.
+<h4 align="left">As a passionate Developer, I am dedicated to creating high-quality web products that combine technical expertise with creative flair. With a solid foundation in Graphic Design, I bring a unique perspective to my development work, ensuring that the user experience is both visually appealing and functionally seamless.
 
 Having honed my skills in web development, I am now proficient in developing semantically correct, accessible, and responsive web applications. While I have a solid foundation in web development and the JavaScript ecosystem, I am continuously expanding my skills in React and Node.js. I possess a strong grasp of the fundamentals and always seek opportunities to deepen my expertise in these technologies
 
