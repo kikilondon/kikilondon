@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **HTML, CSS, JavaScript, Figma.**
 
 - 📫 How to reach me **m.chiarapigoni@gmail.com.**
-<h3 align="left">Connect with me:</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/chiarapigoni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chiarapigoni/" height="30" width="40" /></a>
