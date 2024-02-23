@@ -24,7 +24,7 @@ With a keen eye for design and an understanding of basic UI principles, I am pro
 I look forward to connecting with like-minded professionals and exploring exciting opportunities!
 
 
-- 🔭 I’m currently working on **implementing my projects.**
+- 🔭 I’m currently working on **Aura app with Pensano.dev developers**
 
 - 🌱 I’m currently learning **React.**
 
