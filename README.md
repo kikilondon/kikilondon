@@ -15,22 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center" style="text-decoration:none, display:inline">Hi there, I'm Chiara</h1>
-As a passionate Developer, I am dedicated to creating high-quality web products that combine technical expertise with creative flair. With a solid foundation in Graphic Design, I bring a unique perspective to my development work, ensuring that the user experience is both visually appealing and functionally seamless.
+As a passionate Developer, I am dedicated to creating high-quality web products that combine technical expertise with creative flair. With a solid foundation gained with an MA in Graphic Design, I bring a unique perspective to my development work, ensuring the user experience is visually appealing and functionally seamless.
+<br>
+Through a web development bootcamp, I gained solid bases in web development and the JavaScript ecosystem, but I am continuously expanding my React, Node.js, and MongoDB. Then, during a Women in Tech program focussed on Java and MySql, I worked on full-stack projects and relational databases. 
 
-Having honed my skills in web development, I am now proficient in developing semantically correct, accessible, and responsive web applications. While I have a solid foundation in web development and the JavaScript ecosystem, I am continuously expanding my skills in React and Node.js. I possess a strong grasp of the fundamentals and always seek opportunities to deepen my expertise in these technologies.
-
-With a keen eye for design and an understanding of basic UI principles, I am proficient in using design tools such as Adobe Creative Cloud and Figma to enhance the visual appeal of my applications. I thrive in dynamic and innovative environments, and I'm always eager to learn and collaborate on projects that make a real difference in the world.
+I thrive in dynamic and innovative environments and am always eager to learn and collaborate on projects that make a real difference in the world.
 
 I look forward to connecting with like-minded professionals and exploring exciting opportunities!
 
 
-- 🔭 I’m currently working on **Aura app with Pensano.dev developers**
+- 🔭 I’m currently working on **<a href="https://github.com/Pensano-dev/aura-mobile-app" target="blank"></a>** Aura app with Pensano.dev developers**
 
-- 🌱 I’m currently learning **React.**
-
-- 👯 I’m looking to collaborate on **website, app, prototype and web design projects.**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Figma.**
+- 🌱 I’m currently learning **React, React native and MongoDB.**
 
 - 📫 How to reach me **m.chiarapigoni@gmail.com.**
 
@@ -44,4 +40,6 @@ I look forward to connecting with like-minded professionals and exploring exciti
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <img 
-<a href="https://www.java.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" alt="Java" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+<a href="https://www.java.com/en" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" alt="Java" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"  alt="MongoDB" width="40" height="40"/> </a> <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a><a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
