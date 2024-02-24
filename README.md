@@ -63,5 +63,5 @@ I look forward to connecting with like-minded professionals and exploring exciti
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
  
 </p>
-
+<!--![snake gif](https://github.com/kikilondon/kikilondon/blob/output/github-contribution-grid-snake.gif)
 
