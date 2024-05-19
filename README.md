@@ -26,7 +26,7 @@ I look forward to connecting with like-minded professionals and exploring exciti
 
 - 🔭 I’m currently working on **<a href="https://github.com/Pensano-dev/aura-mobile-app" target="blank">Aura</a> app with <a href="https://github.com/Pensano-dev">Pensano.dev </a>developers.**
 
-- 🌱 I’m currently learning **React, React native and MongoDB.**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **m.chiarapigoni@gmail.com.**
 
