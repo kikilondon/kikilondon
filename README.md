@@ -24,7 +24,7 @@ I thrive in dynamic and innovative environments and am always eager to learn and
 I look forward to connecting with like-minded professionals and exploring exciting opportunities!
 
 
-- 🔭 I’m currently working on **<a href="https://github.com/Pensano-dev/aura-mobile-app" target="blank">Aura</a> app with <a href="https://github.com/Pensano-dev">Pensano.dev </a>developers.**
+- 🔭 I’m currently working on Mentorship platform with <a href="https://womencodingcommunity.com">Women Coding Community </a> developers.
 
 - 🌱 I’m currently learning **Java**
 
