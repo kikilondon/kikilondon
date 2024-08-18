@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center" style="text-decoration:none, display:inline">Hi there, I'm Chiara</h1>
 As a passionate Developer, I am dedicated to creating high-quality web products that combine technical expertise with creative flair. With a solid foundation gained with an MA in Graphic Design, I bring a unique perspective to my development work, ensuring the user experience is visually appealing and functionally seamless.
 <br>
-Through a web development bootcamp, I gained solid bases in web development and the JavaScript ecosystem, but I am continuously expanding my React, Node.js, and MongoDB. Then, during a Women in Tech program focussed on Java and MySql, I worked on full-stack projects and relational databases. 
+Through a web development bootcamp, I gained solid bases in web development and the JavaScript ecosystem, but I am continuously expanding my React, Node.js, and MongoDB skills. Then, during a Women in Tech program, focussed on Java and MySql, I worked on full-stack projects and relational databases. 
 
-I thrive in dynamic and innovative environments and am always eager to learn and collaborate on projects that make a real difference in the world.
+I thrive in dynamic and innovative environments and I am always eager to learn and collaborate on projects that make a real difference in the world.
 
 I look forward to connecting with like-minded professionals and exploring exciting opportunities!
 
