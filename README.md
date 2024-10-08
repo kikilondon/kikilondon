@@ -26,7 +26,7 @@ I look forward to connecting with like-minded professionals and exploring exciti
 
 - 🔭 I’m currently working on Mentorship platform with <a href="https://womencodingcommunity.com">Women Coding Community </a> developers.
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **m.chiarapigoni@gmail.com.**
 
@@ -46,7 +46,13 @@ I look forward to connecting with like-minded professionals and exploring exciti
  
 
   <img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" alt="Java" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" alt="Ruby" width="40" height="40"/>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="40" height="40"/>
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"  alt="MongoDB" width="40" height="40"/>
 
