@@ -24,7 +24,7 @@ I thrive in dynamic and innovative environments and I am always eager to learn a
 I look forward to connecting with like-minded professionals and exploring exciting opportunities!
 
 
-- 🔭 I’m currently working on Mentorship platform with <a href="https://womencodingcommunity.com">Women Coding Community </a> developers.
+- 🔭 I’m currently working for a Fin-Tech company called Funding Circle
 
 - 🌱 I’m currently learning **Python**
 
