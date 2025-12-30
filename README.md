@@ -20,7 +20,7 @@ I am a software engineer with hands-on experience building and maintaining produ
 I look forward to connecting with like-minded professionals and exploring exciting opportunities!
 
 
-- 🔭 I’m currently working for a Fin-Tech company called Funding Circle
+- 🔭 I’m currently working for a Fintech company called Funding Circle
 
 - 🌱 I’m currently learning **Python**
 
